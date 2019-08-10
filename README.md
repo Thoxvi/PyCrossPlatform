@@ -6,6 +6,11 @@ Python's cross-platform tool library.
 
 ## Features
 
+- [x] Easy to use interface
+- [x] Designed for cross-platform
+- [x] Practical library
+- [ ] Rich, complete documentation
+
 ## Usage
 
 ## API Documentation
