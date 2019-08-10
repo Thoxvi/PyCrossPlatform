@@ -35,5 +35,5 @@ setup(
     ],
     keywords='library tools python cross-platform windows linux mac',
 
-    packages=["py_cron_schedule"],
+    packages=["py_cross_platform"],
 )
